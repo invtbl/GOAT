@@ -32,7 +32,7 @@ def true_Goat():
         continue_loop()
     else:
         time.sleep(3)
-        print("You're God damn right it is!")
+        print("You're damn right it is!")
         continue_loop()
 
 true_Goat()
